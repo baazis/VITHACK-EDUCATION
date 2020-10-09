@@ -4,7 +4,7 @@
 # Contributors:
 - Gaurav Singh
 - Kaustubh Agarwal
-- Nishita Pal
+- Nishita Patnaik
 - Saurabh Singh
 - Vaishnav Srinidhi
 - Utsav Deep
