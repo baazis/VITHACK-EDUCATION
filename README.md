@@ -5,6 +5,6 @@
 - Gaurav Singh
 - Kaustubh Agarwal
 - Nishita Pal
-- Saurav Singh
+- Saurabh Singh
 - Vaishnav Srinidhi
 - Utsav Deep
